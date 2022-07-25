@@ -8,6 +8,7 @@
 #include <mruby/class.h>
 #include <mruby/value.h>
 #include <mruby/variable.h>
+#include <mruby/internal.h>
 #include <mruby/dump.h>
 #include <string.h>
 #include <sys/time.h>
